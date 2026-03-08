@@ -36,20 +36,9 @@ for item_name in inventory:
         
         
 print("Processing completed")
-    
+
 print(inventory)
 
-
- 
-
-    
-"""
-print("Current stock: ",current_stock)
-print("Minimum required stock",minimum_required_stock)
-print("Restock quantiy",restock_quantity)
-print("Sale status: ",sale_status)
-print(" ")*#
-"""
     
 
 
